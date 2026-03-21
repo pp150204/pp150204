@@ -6,56 +6,59 @@
 ---
 
 ## 👨‍💻 About Me  
-- 💙 I love building mobile and web apps that solve real problems  
-- 📱 Mainly working with **Flutter & Dart**  
-- 🌐 Backend experience with **Node.js & Express**  
-- 🗄️ Databases: **SQLite, MySQL, MongoDB**  
-- 🌱 Currently improving my full-stack and backend skills  
+- 💙 I build mobile and web applications that solve real-world problems  
+- 📱 Specialized in **Flutter & Dart** for cross-platform app development  
+- 🌐 Experience with backend development using **Node.js & Express**  
+- 🗄️ Work with databases like **SQLite, MySQL, MongoDB, Firebase**  
+- 🌱 Continuously improving my full-stack and backend development skills  
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack  
 
-**💻 Programming Languages**  
-- C, C++, Java  
+### 💻 Programming Languages  
+- C, C++, Java, Dart  
 
-**📱 Frontend**  
-- Flutter, Dart  
+### 📱 Frontend  
+- Flutter  
 
-**🌐 Backend**  
+### 🌐 Backend  
 - Node.js, Express  
 
-**🗄️ Databases**  
-- SQLite  
-- MySQL  
-- MongoDB  
+### 🗄️ Databases  
+- SQLite, MySQL, MongoDB, Firebase  
 
-**🧰 Tools & Platforms**  
+### 🧰 Tools & Platforms  
 - Git & GitHub  
-- Firebase  
 - VS Code  
 - Docker  
 
 ---
 
 ## 📌 Projects  
-- 📱 **Flutter Applications** (Offline + Online support)  
-  🔗 [Repository](https://github.com/YOUR_USERNAME/project-name)  
 
-- 🏫 **College Club & Event Management Apps**  
-  🔗 [Repository](https://github.com/YOUR_USERNAME/project-name)  
-
-- 📊 **Data-driven apps using APIs & local storage**  
-  🔗 [Repository](https://github.com/YOUR_USERNAME/project-name)  
-
-*(More projects coming soon…)*  
+### 📱 Retail Billing App  
+A Flutter-based billing application for small businesses to manage products, scan barcodes, and generate invoices with offline support.  
+🔗 https://github.com/pp150204/Retail-Billing-App  
 
 ---
 
-## 🤝 Let’s Connect  a
-- 💼 GitHub: [pp150204](https://github.com/pp150204)  
-- 🌐 LinkedIn: [Prathmesh Pimpare](https://www.linkedin.com/in/prathmesh-pimpare-614116357)  
-- 📧 Email: [prathmeshpimpare625@gmail.com](mailto:prathmeshpimpare625@gmail.com)  
+### 🖱️ Wireless Mouse (WiFi Virtual Mouse)  
+A mobile-based system that allows users to control their computer using a smartphone via real-time communication.  
+🔗 https://github.com/pp150204/Wireless-Mouse  
+
+---
+
+### 🍎 Fruit Recognition App  
+An ML-powered Flutter application that detects and classifies fruits in real-time using camera input.  
+🔗 https://github.com/pp150204/FruitRecognition-App  
+
+---
+
+## 🤝 Let’s Connect  
+- 💼 GitHub: https://github.com/pp150204  
+- 🌐 LinkedIn: https://www.linkedin.com/in/prathmesh-pimpare-614116357  
+- 📧 Email: prathmeshpimpare625@gmail.com  
 
 ---
 
