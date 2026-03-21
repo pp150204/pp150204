@@ -52,7 +52,7 @@
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Let’s Connect  a
 - 💼 GitHub: [pp150204](https://github.com/pp150204)  
 - 🌐 LinkedIn: [Prathmesh Pimpare](https://www.linkedin.com/in/prathmesh-pimpare-614116357)  
 - 📧 Email: [prathmeshpimpare625@gmail.com](mailto:prathmeshpimpare625@gmail.com)  
