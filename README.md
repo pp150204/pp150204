@@ -1,25 +1,27 @@
-# Hi there 👋, I'm Prathamesh  
+# Hi there 👋, I'm Prathmesh  
 
-🚀 **Flutter & Full-Stack App Developer**  
-🎓 Engineering Student | Passionate about building real-world applications  
+🚀 **Flutter & Full-Stack Developer | Aspiring AI Engineer**  
+🎓 Engineering Student | Passionate about building scalable real-world applications  
 
 ---
 
 ## 👨‍💻 About Me  
-- 💙 I build mobile and web applications that solve real-world problems  
-- 📱 Specialized in **Flutter & Dart** for cross-platform app development  
-- 🌐 Experience with backend development using **Node.js & Express**  
-- 🗄️ Work with databases like **SQLite, MySQL, MongoDB, Firebase**  
-- 🌱 Continuously improving my full-stack and backend development skills  
+- 💙 I develop mobile and web applications that solve real-world problems  
+- 📱 Specialized in **Flutter & Dart** for cross-platform development  
+- 🌐 Experience in backend development using **Node.js & Express**  
+- 🗄️ Comfortable working with **SQLite, MySQL, MongoDB, and Firebase**  
+- 🤖 Actively exploring **Machine Learning, Deep Learning, and Generative AI**  
+- 🧠 Interested in building intelligent, AI-powered applications  
+- 🌱 Continuously improving my skills in full-stack development and AI systems  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
-- C, C++, Java, Dart  
+- C, C++, Java, Dart, Python  
 
-### 📱 Frontend  
+### 📱 Frontend / Mobile  
 - Flutter  
 
 ### 🌐 Backend  
@@ -28,30 +30,45 @@
 ### 🗄️ Databases  
 - SQLite, MySQL, MongoDB, Firebase  
 
+### 🤖 AI / ML (Learning & Building)  
+- Machine Learning (Scikit-learn, basic models)  
+- Deep Learning (Neural Networks, CNN basics)  
+- Generative AI (LLMs, prompt engineering basics)  
+- Python for AI/ML development  
+
 ### 🧰 Tools & Platforms  
 - Git & GitHub  
 - VS Code  
 - Docker  
+- Postman  
 
 ---
 
 ## 📌 Projects  
 
 ### 📱 Retail Billing App  
-A Flutter-based billing application for small businesses to manage products, scan barcodes, and generate invoices with offline support.  
+A Flutter-based billing system for small businesses with product management, barcode scanning, invoice generation, and offline support.  
 🔗 https://github.com/pp150204/Retail-Billing-App  
 
 ---
 
 ### 🖱️ Wireless Mouse (WiFi Virtual Mouse)  
-A mobile-based system that allows users to control their computer using a smartphone via real-time communication.  
+A mobile-to-PC control system that enables real-time device interaction using smartphone gestures over WiFi.  
 🔗 https://github.com/pp150204/Wireless-Mouse  
 
 ---
 
 ### 🍎 Fruit Recognition App  
-An ML-powered Flutter application that detects and classifies fruits in real-time using camera input.  
+An ML-powered Flutter application that detects and classifies fruits in real-time using camera input and trained models.  
 🔗 https://github.com/pp150204/FruitRecognition-App  
+
+---
+
+## 🎯 Current Focus  
+- 🚀 Building full-stack production-ready applications  
+- 🤖 Strengthening Machine Learning & Deep Learning fundamentals  
+- 🧠 Learning Generative AI (LLMs, prompt engineering, AI agents)  
+- 📱 Integrating AI into Flutter applications  
 
 ---
 
